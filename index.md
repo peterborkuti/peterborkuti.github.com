@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Peter Borkuti on GitHub
-tagline:
+title: Blog - Hobby - Profession
+tagline: Nothing personal
 ---
 {% include JB/setup %}
 
