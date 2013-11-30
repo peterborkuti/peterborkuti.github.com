@@ -1,36 +1,12 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Peter Borkuti on GitHub
+tagline:
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## My Blog
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +14,24 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## Hobby
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+### Robotics
 
+### OpenCV
+* [OpenCV](href="http://opencv.org")
+* [Object-labeler](https://github.com/peterborkuti/haartraining)
 
+### Learning Machine Learning
+* [Andrew Ng](https://www.coursera.org/course/ml)
+* [Sebastian Thrun](https://www.udacity.com/course/cs373)
+* [S. Thrun and Peter Norvig](https://www.udacity.com/course/cs271)
+
+### Learning Electronics
+* [Prof. Anant Agarval](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)
+
+## Professional life
+* [php](http://www.matesz.hu)
+* [java](http://www.liferay.com)
+* [javascript](https://github.com/peterborkuti/other/JavaScriptBasics)
+* [visit me on github](https://github.com/peterborkuti)
